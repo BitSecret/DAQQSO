@@ -31,3 +31,6 @@ The project structure is shown below:
 `java` is the java implementation code of the DAQQSO. Where `code` is the Java source code, `data` is the program input data.  
 `python` is related Python code and data, using Monte Carlo method to generate simulated data.  
 `QT` is a prototype system with a GUI, implemented using QT technology. This folder includes source code and input data.  
+
+# Acknowledge
+This project is developed by [XiaokaiZhang](https://github.com/BitSecret). Please contact with the author (xiaokaizhang1999@163.com) if you encounter any issues.  
